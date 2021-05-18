@@ -1,0 +1,19 @@
+{
+    "name": "evertramos/laravel_basis",
+    "description": "Laravel Base boilerplate made by Evert Ramos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evert Ramos",
+            "email": "evert.ramos@cgu.gov.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Evertramos\\Laravel_basis\\": "src/"
+        }
+    },
+    "require": {}
+}
